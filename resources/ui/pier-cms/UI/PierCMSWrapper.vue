@@ -3,7 +3,7 @@
         <aside class="flex-shrink-0">
             <div class="long-header bg-blue-100 text-blue-800 tracking-wider">
                 <!-- <img class="mb-2" style="height:50px; margin-left: -8px" src="img/logo.png" alt=""> -->
-                {{ process.env.APP_NAME }} CMS
+                Pier CMS
             </div>
             <ul>
                 <li v-for="model in models"
